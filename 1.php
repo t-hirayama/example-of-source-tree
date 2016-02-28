@@ -1,4 +1,4 @@
 <?php
 
-echo "hello".PHP_EOL;
+echo "hello world".PHP_EOL;
 ?>
